@@ -2,7 +2,7 @@
 
 layout: default
 title: 禱告同行 / Prayer Companion
-------------------------------
+---
 
 # 禱告同行 / Prayer Companion
 
